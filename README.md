@@ -9,7 +9,7 @@ This is particularly useful for coding, e.g. with Cursor, where you can include 
 To use the Flatten tool, copy the flatten repo `fr.sh` script into your repository:
 
 ```
-curl -O https://raw.githubusercontent.com/TrelisResearch/flatten/main/fr.sh
+curl -O https://raw.githubusercontent.com/rahulthakur319/flatten/refs/heads/main/fr.sh
 chmod +x fr.sh
 ```
 
